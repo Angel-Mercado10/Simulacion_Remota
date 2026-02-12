@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-console.log ("Estoy aprendiendo cosas nuevas")
+console.log ("Commit 1 feo")
 
