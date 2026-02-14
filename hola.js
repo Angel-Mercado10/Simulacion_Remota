@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-console.log ("Estoy aprendiendo cosas nuevas")
+console.log ("Commit 1 feo")
+console.log ("Commit 2 feo")
+console.log ("Commit 3 feo")
 
-
-=======
-console.log ("Este es un mensaje que viene desde la rama feature/agregar-boton")
->>>>>>> release/v1.0
