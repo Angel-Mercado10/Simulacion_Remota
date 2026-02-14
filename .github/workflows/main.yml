@@ -1,0 +1,8 @@
+name: Mi Primer CI
+on: [push]
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Saludar
+        run: echo "¡Hola Ángel! Estoy corriendo en la nube de GitHub."
